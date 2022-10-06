@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,13): error C2873: 'System': symbol cannot be used in a using-declaration
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,13): error C2059: syntax error: '.'
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,13): error C2059: syntax error: '.'
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,13): error C2059: syntax error: '.'
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,13): error C2059: syntax error: '.'
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,3): error C2065: 'cout': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,36): error C2065: 'endl': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,3): error C2065: 'cout': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,36): error C2065: 'endl': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,3): error C2065: 'default': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,3): error C2065: 'cout': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,40): error C2065: 'endl': undeclared identifier
+C:\Users\Cat\Desktop\bit142\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,3): error C2143: syntax error: missing ';' before 'return'

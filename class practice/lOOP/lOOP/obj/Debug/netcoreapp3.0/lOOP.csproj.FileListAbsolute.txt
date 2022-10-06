@@ -1,0 +1,11 @@
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.exe
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.deps.json
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.runtimeconfig.json
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.runtimeconfig.dev.json
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.dll
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\bin\Debug\netcoreapp3.0\lOOP.pdb
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\obj\Debug\netcoreapp3.0\lOOP.csprojAssemblyReference.cache
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\obj\Debug\netcoreapp3.0\lOOP.AssemblyInfoInputs.cache
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\obj\Debug\netcoreapp3.0\lOOP.AssemblyInfo.cs
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\obj\Debug\netcoreapp3.0\lOOP.dll
+C:\Users\Cat\Desktop\bit142\f\lOOP\lOOP\obj\Debug\netcoreapp3.0\lOOP.pdb
